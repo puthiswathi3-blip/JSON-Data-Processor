@@ -1,0 +1,19 @@
+Sample output:
+
+===== JSON Data Processor =====
+1. Search Employee
+2. Filter by Department
+3. Show Summary
+4. Display All Employees
+5. Save Data to JSON
+6. Exit
+
+Enter your choice (1-6): 3
+
+Employee Summary
+-------------------------
+Total Employees: 5
+Total Salary: 213000
+Average Salary: 42600.0
+Highest Paid Employee: Arjun
+Highest Salary: 55000
